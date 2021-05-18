@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @jihoon2723
-- 👀 I’m interested in Java, Python, MachineLearning, DeepLearning, Jsp/Servlet
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in   Java, Python, MachineLearning, DeepLearning, Jsp/Servlet
+- 🌱 I’m currently learning    Spring Boot
 
 <!---
 jihoon2723/jihoon2723 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
